@@ -1,0 +1,1 @@
+This page has moved to https://github.com/v8/v8/wiki
